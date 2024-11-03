@@ -17,3 +17,14 @@ Feel free to get in touch on discord: @HackFight
 </p>
 
 [![Top Languages](https://github-readme-stats-tau-teal-80.vercel.app/api/top-langs/?username=HackFight&size_weight=1&theme=transparent&hide=ShaderLab,HLSL,CSS)](https://github.com/anuraghazra/github-readme-stats)
+
+## Some cool projects
+
+<p align="left">
+  <a href="https://hackfight.itch.io/ropedungeon">
+    <img src="https://img.itch.zone/aW1nLzg2NTE3NzgucG5n/180x143%23c/90Ovbg.png" alt="Rope Dungeon">
+  </a>
+  <a href="https://hackfight.itch.io/poya">
+    <img src="https://img.itch.zone/aW1nLzE3MDg3NDg4LmdpZg==/180x143%23c/oX6Kc8.gif" alt="Poya" height=143 width=180>
+  </a>
+</p>
