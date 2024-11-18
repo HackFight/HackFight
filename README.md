@@ -8,6 +8,8 @@ Swiss gamedev and VR fan
 
 Feel free to get in touch on discord: @HackFight
 
+My website: [HackFight.dev](https://www.hackfight.dev)
+
 **Owner of:**
 <p align="left">
   <a href="https://swisscommunities.github.io" target="_blank" rel="noreferrer">
