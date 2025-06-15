@@ -3,8 +3,8 @@
 Swiss gamedev and VR fan
 
 **Speaks:**
-- FR
-- ENG
+- French
+- English
 
 Feel free to get in touch on discord: @HackFight
 
