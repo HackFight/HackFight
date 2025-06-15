@@ -6,7 +6,7 @@ Swiss gamedev and VR fan
 - French
 - English
 
-Feel free to get in touch on discord: @HackFight
+Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/691967643728609290)
 
 My website: [HackFight.dev](https://www.hackfight.dev)
 
@@ -20,6 +20,7 @@ My website: [HackFight.dev](https://www.hackfight.dev)
   </a>
 </p>
 
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackfight&size_weight=0.5&count_weight=0.5&theme=transparent&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some cool projects
