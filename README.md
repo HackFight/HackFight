@@ -1,12 +1,11 @@
 # HackFight 🇨🇭  
 
-Swiss gamedev and VR fan
+Swiss gamedev and VR fan  
+More about me on [HackFight.dev](https://www.hackfight.dev)
 
-**Speaks:** French, English
+I speak french and english.
 
 Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/691967643728609290)
-
-My website: [HackFight.dev](https://www.hackfight.dev)
 
 **Owner of:**
 <p align="left">
@@ -27,7 +26,6 @@ My website: [HackFight.dev](https://www.hackfight.dev)
 </a>
 
 ## Examples of my work
-
 <p align="left">
   <a href="https://hackfight.itch.io/ropedungeon">
     <img src="https://img.itch.zone/aW1nLzg2NTE3NzgucG5n/180x143%23c/90Ovbg.png" alt="Rope Dungeon">
