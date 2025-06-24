@@ -2,9 +2,7 @@
 
 Swiss gamedev and VR fan
 
-**Speaks:**
-- French
-- English
+**Speaks:** French, English
 
 Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/691967643728609290)
 
@@ -21,9 +19,14 @@ My website: [HackFight.dev](https://www.hackfight.dev)
 </p>
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hackfight&size_weight=0.5&count_weight=0.5&theme=transparent&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hackfight&show_icons=true&theme=synthwave&rank_icon=github&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackfight&layout=donut&theme=synthwave&exclude_repo=Le-truc-super-cool-qu-on-va-faire-pendant-cette-semaine,Claustrobox,Tetrisnt,Esterrial_Prototype,EPQ-Project" />
+</a>
 
-## Some cool projects
+## Examples of my work
 
 <p align="left">
   <a href="https://hackfight.itch.io/ropedungeon">
