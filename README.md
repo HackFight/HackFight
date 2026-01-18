@@ -10,10 +10,10 @@ Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/
 **Owner of:**
 <p align="left">
   <a href="https://swisscommunities.github.io" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HackFight/HackFight/blob/main/swisscommunities.png" alt="swisscommunities" width="51" height="40"/>
+    <img src="https://github.com/HackFight/HackFight/blob/main/swisscommunities.png" alt="swisscommunities" width="38" height="30"/>
   </a>
   <a href="https://github.com/DonutBytes-Studio" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HackFight/HackFight/blob/main/DonutBytes.png" alt="donutbytes" width="40" height="40"/>
+    <img src="https://github.com/HackFight/HackFight/blob/main/DonutBytes.png" alt="donutbytes" width="30" height="30"/>
   </a>
 </p>
 
@@ -24,10 +24,13 @@ Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/
 
 ## Examples of my work
 <p align="left">
-  <a href="https://hackfight.itch.io/ropedungeon">
-    <img src="https://img.itch.zone/aW1nLzg2NTE3NzgucG5n/180x143%23c/90Ovbg.png" alt="Rope Dungeon">
+  <a href="https://hackfight.itch.io/garys-guide-to-make-truly-amazing-potions">
+    <img width="180" height="143" alt="image" src="https://github.com/user-attachments/assets/5e922abc-57b4-4c65-a829-0ab0cb1f7d92" />
   </a>
   <a href="https://hackfight.itch.io/poya">
-    <img src="https://img.itch.zone/aW1nLzE3MDg3NDg4LmdpZg==/180x143%23c/oX6Kc8.gif" alt="Poya" height=143 width=180>
+    <img width="180" height="143" alt="image" src="https://github.com/user-attachments/assets/b2253b92-053c-4472-b814-cafa4c234c18" />
+  </a>
+  <a href="https://hackfight.itch.io/ropedungeon">
+    <img width="180" height="143" alt="image" src="https://github.com/user-attachments/assets/833ce7a5-1f7a-4132-aa4a-2a72ba3fe138" />
   </a>
 </p>
