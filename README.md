@@ -18,11 +18,8 @@ Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/
 </p>
 
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-ivory-53.vercel.app/api?username=hackfight&show_icons=true&theme=material-palenight&rank_icon=github" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-ivory-53.vercel.app/api/top-langs/?username=hackfight&layout=donut&theme=material-palenight" />
+  <img height=200 align="center" src="https://github-readme-stats-sigma-ivory-53.vercel.app/api/top-langs/?username=hackfight&theme=catppuccin_mocha" />
 </a>
 
 ## Examples of my work
