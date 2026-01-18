@@ -19,10 +19,10 @@ Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hackfight&show_icons=true&theme=material-palenight&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-sigma-ivory-53.vercel.app/api?username=hackfight&show_icons=true&theme=material-palenight&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackfight&layout=donut&theme=material-palenight&exclude_repo=hackfight.github.io,Le-truc-super-cool-qu-on-va-faire-pendant-cette-semaine,Claustrobox,Tetrisnt,Esterrial_Prototype,EPQ-Project" />
+  <img height=200 align="center" src="https://github-readme-stats-sigma-ivory-53.vercel.app/api/top-langs/?username=hackfight&layout=donut&theme=material-palenight" />
 </a>
 
 ## Examples of my work
