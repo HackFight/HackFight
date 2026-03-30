@@ -20,7 +20,8 @@ Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/
 ## Stats
 ![Stats](./profile/stats-dark.svg#gh-dark-mode-only)
 ![Stats](./profile/stats-light.svg#gh-light-mode-only)
-![Top Languages](./profile/top-langs.svg)
+![Top Languages](./profile/top-langs-dark.svg#gh-dark-mode-only)
+![Top Languages](./profile/top-langs-light.svg#gh-light-mode-only)
 
 ## Examples of my work
 <p align="left">
