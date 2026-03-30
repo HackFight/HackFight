@@ -18,9 +18,7 @@ Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/
 </p>
 
 ## Stats
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-ivory-53.vercel.app/api/top-langs/?username=hackfight&theme=catppuccin_mocha" />
-</a>
+![Stats](./profile/stats.svg)
 
 ## Examples of my work
 <p align="left">
