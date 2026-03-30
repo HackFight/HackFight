@@ -18,7 +18,8 @@ Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/
 </p>
 
 ## Stats
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats-dark.svg#gh-dark-mode-only)
+![Stats](./profile/stats-light.svg#gh-light-mode-only)
 ![Top Languages](./profile/top-langs.svg)
 
 ## Examples of my work
