@@ -1,8 +1,8 @@
 
       <svg
-        width="370"
-        height="215"
-        viewBox="0 0 370 215"
+        width="320"
+        height="165"
+        viewBox="0 0 320 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -92,7 +92,7 @@
           rx="4.5"
           height="99%"
           stroke="#3B4048"
-          width="369"
+          width="319"
           fill="#23272E"
           stroke-opacity="1"
         />
@@ -120,68 +120,99 @@
           
     <svg data-testid="lang-items" x="25">
       
-    <g transform="translate(0, 0)">
-      <g transform="translate(0, 0)">
-        <g transform="translate(0, 0)">
+  
+      <mask id="rect-mask">
+          <rect x="0" y="0" width="270" height="8" fill="white" rx="5"/>
+        </mask>
+        
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="0"
+          y="0"
+          width="171.96"
+          height="8"
+          fill="#f34b7d"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="171.96"
+          y="0"
+          width="59.72"
+          height="8"
+          fill="#178600"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="231.68"
+          y="0"
+          width="16.83"
+          height="8"
+          fill="#555555"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="248.51"
+          y="0"
+          width="16.21"
+          height="8"
+          fill="#e34c26"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="264.71999999999997"
+          y="0"
+          width="15.280000000000001"
+          height="8"
+          fill="#222c37"
+        />
+      
+      
+    <g transform="translate(0, 25)">
+      <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 69.20%
+        C++ 63.69%
       </text>
     </g>
-  </g><g transform="translate(0, 32)">
+  </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 24.03%
+        C# 22.12%
       </text>
     </g>
-  </g><g transform="translate(0, 64)">
+  </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#555555" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C 6.77%
+        C 6.23%
       </text>
     </g>
-  </g>
-      </g>
-
-      <g transform="translate(125, -45)">
-        <svg width="370" height="370">
-       <g class="stagger" style="animation-delay: 600ms">
-        <path
-          data-testid="lang-donut"
-          size="69.2"
-          d="M 64.1591669777479 145.90608565183922 A 63.33333333333333 63.33333333333333 0 1 0 123.33333333333333 60"
-          stroke="#f34b7d"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 700ms">
-        <path
-          data-testid="lang-donut"
-          size="24.03"
-          d="M 97.19824202037852 65.64392257906557 A 63.33333333333333 63.33333333333333 0 0 0 64.1591669777479 145.90608565183922"
-          stroke="#178600"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      
-       <g class="stagger" style="animation-delay: 800ms">
-        <path
-          data-testid="lang-donut"
-          size="6.77"
-          d="M 123.33333333333337 60 A 63.33333333333333 63.33333333333333 0 0 0 97.19824202037852 65.64392257906557"
-          stroke="#555555"
-          fill="none"
-          stroke-width="12">
-        </path>
-      </g>
-      </svg>
-      </g>
+  </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
+    <g class="stagger" style="animation-delay: 450ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        HTML 6.01%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#222c37" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        ShaderLab 1.96%
+      </text>
+    </g>
+  </g></g>
     </g>
   
     </svg>
