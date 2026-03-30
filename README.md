@@ -19,6 +19,7 @@ Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/
 
 ## Stats
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 ## Examples of my work
 <p align="left">
