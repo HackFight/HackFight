@@ -18,7 +18,7 @@ jobs:
       - name: Generate dark mode stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats-dark
+          card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=one_dark_pro&hide=prs,issues
           path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -26,7 +26,7 @@ jobs:
       - name: Generate light mode stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: stats-light
+          card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=buefy&hide=prs,issues
           path: profile/stats-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -34,7 +34,7 @@ jobs:
       - name: Generate dark mode top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: top-langs-dark
+          card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=one_dark_pro&layout=donut
           path: profile/top-langs-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -42,7 +42,7 @@ jobs:
       - name: Generate light mode top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: top-langs-light
+          card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=buefy&layout=donut
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
