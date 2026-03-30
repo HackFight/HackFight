@@ -7,21 +7,19 @@ I speak french and english.
 
 Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/691967643728609290)
 
-**Owner of:**
-<p align="left">
-  <a href="https://swisscommunities.github.io" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HackFight/HackFight/blob/main/swisscommunities.png" alt="swisscommunities" width="38" height="30"/>
-  </a>
-  <a href="https://github.com/DonutBytes-Studio" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HackFight/HackFight/blob/main/DonutBytes.png" alt="donutbytes" width="30" height="30"/>
-  </a>
-</p>
-
 ## Stats
-![Stats](./profile/stats-dark.svg#gh-dark-mode-only)
-![Stats](./profile/stats-light.svg#gh-light-mode-only)
-![Top Languages](./profile/top-langs-dark.svg#gh-dark-mode-only)
-![Top Languages](./profile/top-langs-light.svg#gh-light-mode-only)
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Stats" height="200" align=center/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="./profile/stats-light.svg#gh-light-mode-only" alt="Stats" height="200" align=center/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="200" align=center/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Top Languages" height="200" align=center/>
+</a>
 
 ## Examples of my work
 <p align="left">
