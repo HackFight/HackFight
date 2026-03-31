@@ -8,18 +8,10 @@ I speak french and english.
 Feel free to get in touch on discord: [@HackFight](https://discordapp.com/users/691967643728609290)
 
 ## Stats
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Stats" height="200" align=center/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="./profile/stats-light.svg#gh-light-mode-only" alt="Stats" height="200" align=center/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Top Languages" height="200" align=center/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Top Languages" height="200" align=center/>
-</a>
+![Top Languages](./profile/top-langs-dark.svg#gh-dark-mode-only)
+![Top Languages](./profile/top-langs-light.svg#gh-light-mode-only) \
+![Stats](./profile/stats-dark.svg#gh-dark-mode-only)
+![Stats](./profile/stats-light.svg#gh-light-mode-only)
 
 ## Examples of my work
 <p align="left">
